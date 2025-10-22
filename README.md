@@ -1,14 +1,55 @@
-In this project, let's build a **Destination Search** app by applying the concepts we have learned till now.
+# 🌍 Destination Search
 
-### Refer to the image below:
+**Destination Search** is a responsive React application that allows users to search and explore a curated list of travel destinations.  
+This project demonstrates essential React concepts like **components**, **props**, **state management**, and **conditional rendering**, while providing an interactive search experience.
 
-<br/>
-<div style="text-align: center;">
-    <img src="https://assets.ccbp.in/frontend/content/react-js/destination-search-output-v2.gif" alt="destination search output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+---
+
+## ✨ Features
+
+- 🔍 **Search Functionality** – Instantly filter destinations based on user input  
+- ⚡ **Dynamic UI** – Real-time updates as users type  
+- 📱 **Responsive Design** – Works smoothly on mobile and desktop  
+- 🧩 **Clean Architecture** – Built using React best practices and reusable components  
+
+---
+
+## 🖼️ Demo Preview
+
+<div align="center">
+  <img src="https://assets.ccbp.in/frontend/content/react-js/destination-search-output-v2.gif" 
+       alt="Destination Search App Preview" 
+       width="70%" 
+       style="box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);" />
 </div>
-<br/>
 
-### Design Files
+---
+
+## ⚙️ Getting Started
+
+### 📋 Prerequisites
+
+Before you begin, ensure you have the following installed:
+- [Node.js](https://nodejs.org/) (version 14 or higher)
+- [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.io/) package manager
+
+---
+
+### 🧩 Installation
+
+
+# Clone the repository
+git clone https://github.com/your-username/Destination-Search.git
+
+# Navigate to the project directory
+cd Destination-Search
+
+# Install dependencies
+npm install
+# or
+pnpm install
+
+<!--### Design Files
 
 <details>
 <summary>Click to view</summary>
@@ -119,9 +160,9 @@ Use these files to complete the implementation:
 
 </details>
 
-> ### _Things to Keep in Mind_
+> ### _Things to Keep in Mind_   
 >
 > - All components you implement should go in the `src/components` directory.
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.  -->
